@@ -1,0 +1,31 @@
+.stories{
+    margin-left: 2rem;
+}
+.storie-image{
+    width: calc(30vw - 1em);
+    height: calc(33vw - 1em);
+}
+.linkstories{
+    color: black;
+}
+.series-id{
+    width: 100%;
+}
+.row{
+    width: 100%;
+}
+@media (max-width: 500px) {
+    .storie-image{
+        width: 220px;
+        height: 350px;
+    }
+    h1 {
+        font-size: 1.5rem!important;
+    }
+}
+@media (max-width: 400px) {
+    .stories{
+        margin-left: 0;
+    }
+}
+

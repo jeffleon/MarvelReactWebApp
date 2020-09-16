@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+.text-jumbotron{
+    color: #E6AC04;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 13%;
+    margin-top: 5%;
+}
+.linkfavorites{
+    color: whitesmoke;
+    text-decoration:none !important;
+}
+.spidi{
+    width: calc(70vw - 10em);
+}
+@media (max-width: 590px) {
+    .spidi{
+        visibility: hidden;
+    }
+    .text-jumbotron{
+        margin: 0%;
+        color: #E6AC04;
+        font-family: 'Roboto', sans-serif;
+        padding: 0%;
+    }
+    .display-3 {
+        font-size: 3.5rem;
+    }
+
+}

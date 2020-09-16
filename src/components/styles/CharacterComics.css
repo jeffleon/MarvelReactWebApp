@@ -1,0 +1,18 @@
+.imagecomic{
+    width: 180px;
+    height: 280px;
+}
+.cardtextcomics{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+.cardcharactercomics{
+    margin-top: 10%;
+    padding: 0!important;
+    width: 190px;
+    height: 480px;
+    margin-bottom: 8%;
+    background-color: #06060E!important;
+
+}

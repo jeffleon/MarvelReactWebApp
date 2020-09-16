@@ -1,0 +1,14 @@
+.dark{
+    background-color: #06060E!important;
+}
+span{
+    color: white!important;
+}
+select{
+    width: 100px!important;
+    color: whitesmoke!important;
+    background-color: #0F0817!important;
+}
+input{
+    width: 150px!important;
+}
